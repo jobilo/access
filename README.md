@@ -7,3 +7,5 @@ test git push and pull
 I want a dog
 
 4/10 test v2
+
+From git to r test pull
